@@ -1,27 +1,12 @@
-\usepackage{tcolorbox}
-\usepackage{tabularx}
-\usepackage{array}
-\usepackage{colortbl}
-\begin{tcolorbox}[tab2,tabularx={X||Y|Y|Y|Y||Y}]
-Group & One     & Two     & Three    & Four     & Sum      \\\hline\hline
-Red   & 1000.00 & 2000.00 &  3000.00 &  4000.00 & 10000.00 \\\hline
-Green & 2000.00 & 3000.00 &  4000.00 &  5000.00 & 14000.00 \\\hline
-Blue  & 3000.00 & 4000.00 &  5000.00 &  6000.00 & 18000.00 \\\hline\hline
-Sum   & 6000.00 & 9000.00 & 12000.00 & 15000.00 & 42000.00
-\end{tcolorbox}
-
-\begin{tcolorbox}[tab2,tabularx={X||Y|Y|Y|Y||Y},title=My table,boxrule=0.5pt]
-Group & One     & Two     & Three    & Four     & Sum      \\\hline\hline
-Red   & 1000.00 & 2000.00 &  3000.00 &  4000.00 & 10000.00 \\
-Green & 2000.00 & 3000.00 &  4000.00 &  5000.00 & 14000.00 \\
-Blue  & 3000.00 & 4000.00 &  5000.00 &  6000.00 & 18000.00 \\\hline\hline
-Sum   & 6000.00 & 9000.00 & 12000.00 & 15000.00 & 42000.00
-\end{tcolorbox}
-
-\begin{tcolorbox}[tab1,tabularx={X||YYYY||Y}]
-Group & One     & Two     & Three    & Four     & Sum      \\\hline\hline
-Red   & 1000.00 & 2000.00 &  3000.00 &  4000.00 & 10000.00 \\
-Green & 2000.00 & 3000.00 &  4000.00 &  5000.00 & 14000.00 \\
-Blue  & 3000.00 & 4000.00 &  5000.00 &  6000.00 & 18000.00 \\\hline\hline
-Sum   & 6000.00 & 9000.00 & 12000.00 & 15000.00 & 42000.00
-\end{tcolorbox}
+\begin{table}[htdp]
+\caption{Comparison of Elements in Air on the Space Station and sea level on Earth}\label{default}
+\begin{tabularx}{\linewidth}{|>{\RaggedRight}p{2.5cm}|x|x|x|}\hline
+Chemical Component & Percentage in Earth's Atomsphere & Ideal Values for the Space Station & Astronaut Exhalation\\ \hline
+Nitrogen      & 78.084\% & 78.000\% & 74.200\% \\ \hline
+Oxygen        & 20.946\% & 21.000\% & 15.300\% \\ \hline
+Argon         & 0.934\%  &  0.000\% &  0.000\% \\ \hline
+Carbon Dioxide& 0.033\%  &  0.000\% &  3.600\% \\ \hline
+Water Vapour  & 0.030\%  &  1.000\% &  0.800\% \\ \hline
+Trace Elements& 0.003\%  &  0.000\% &  0.800\% \\ \hline
+\end{tabularx}
+\end{table}
