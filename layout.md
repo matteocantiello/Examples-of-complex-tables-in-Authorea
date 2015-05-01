@@ -2,3 +2,4 @@ untitled.tex
 usepackage_table_xcolor_setlength_arrayrulewidth__.tex
 begin_table_begin_minipage_t__.tex
 usepackage_utf8_inputenc_usepackage_table__.tex
+begin_tabular_l_l_l__.tex
