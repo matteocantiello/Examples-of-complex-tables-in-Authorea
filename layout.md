@@ -5,3 +5,4 @@ usepackage_utf8_inputenc_usepackage_table__.tex
 begin_tabular_l_l_l__.tex
 begin_table_htdp_caption_Comparison__.tex
 begin_deluxetable_cccccccc_tabletypesize_footnotesize__.tex
+begin_table_label_tab_tab1__.tex
