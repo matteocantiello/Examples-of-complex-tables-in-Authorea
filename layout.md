@@ -4,6 +4,7 @@ begin_verbatim_begin_tabular_cccccccc__.tex
 section_Adding_colors_to_your__.tex
 rowcolors_3_green_80_yellow__.tex
 begin_verbatim_rowcolors_3_green__.tex
+section_Hover_Footnotes__.tex
 begin_table_begin_minipage_t__.tex
 newcolumntype_s_columncolor_HTML_AAACED__.tex
 begin_verbatim_newcolumntype_s_columncolor__.tex
