@@ -6,7 +6,7 @@ rowcolors_3_green_80_yellow__.tex
 begin_verbatim_rowcolors_3_green__.tex
 section_Hover_Footnotes__.tex
 begin_table_caption_Hover_on__.tex
-begin_verbatim_begin_minipage_t__.tex
+begin_verbatim_begin_table_caption__.tex
 newcolumntype_s_columncolor_HTML_AAACED__.tex
 begin_verbatim_newcolumntype_s_columncolor__.tex
 begin_tabular_l_l_l__.tex
