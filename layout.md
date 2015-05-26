@@ -15,4 +15,3 @@ begin_verbatim_begin_table_caption__.tex
 section_Deluxe_Tables__.tex
 begin_deluxetable_cccccccc_centering_tabletypesize__.tex
 begin_verbatim_begin_deluxetable_cccccccc__.tex
-begin_table_htdp_caption_Comparison__.tex
