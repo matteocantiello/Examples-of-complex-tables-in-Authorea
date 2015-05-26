@@ -2,6 +2,7 @@ This_post_showcases_some_complex__.tex
 untitled.tex
 begin_verbatim_begin_tabular_cccccccc__.tex
 rowcolors_3_green_80_yellow__.tex
+begin_verbatim_rowcolors_3_green__.tex
 begin_table_begin_minipage_t__.tex
 setlength_arrayrulewidth_1mm_setlength_tabcolsep__1.tex
 begin_tabular_l_l_l__.tex
